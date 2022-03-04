@@ -1,4 +1,4 @@
-﻿namespace AGICore
+﻿namespace Core
 {
     public class Class1
     {
